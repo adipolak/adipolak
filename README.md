@@ -3,9 +3,11 @@
 
 A wee bit about me: I am an experienced Software Engineer and people manager with technical expertise in Apache Spark, HDFS, AWS, Azure, machine learning, and distributed large-scale systems.
 
-I'm a highly motivated problem-solver and avid learner with a curious, positive, and can-do attitude. Drove success and improvement for both distributed machine systems and people systems, optimizing Spark cluster, driving +350%  throughout at Akamai scale, saving company money on compute and optimizing machine learning model deployment to 2–3 days cycle to driving people-based systems, influencing strategic software integrations, building alignment and growing product adoption by 400% for early-stage startup.
+I'm highly motivated, and always excited about solving problems and learning. I possess a curious, positive, and can-do attitude. Drove success and improvement for both distributed machine systems and people systems, optimizing Spark cluster, driving +350%  throughout at Akamai scale [billions of events a day, processing 1.3PT], saving the company money on compute and optimizing complex ml model deployment from months to 2–3 days cycle, by aligning people-based systems, influencing strategic software integrations, and adopting software best practices.
 
 I have been honored with the Beacon award in the Databricks Ambassadors Program, a testament to my commitment to contributing to data and AI technologies and sharing my expertise with others.
+
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
 
 ## 🔭 Industry Contributions
