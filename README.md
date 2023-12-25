@@ -1,5 +1,6 @@
-### Hi there 👋
+[Take the plunge of distributed machine learning training with Spark, Pytorch and TensorFlow](https://github.com/adipolak/ml-with-apache-spark)
 
+### Hi there 👋
 
 A wee bit about me: I am an experienced Software Engineer and people manager with technical expertise in Apache Spark, HDFS, AWS, Azure, machine learning, and distributed large-scale systems.
 
