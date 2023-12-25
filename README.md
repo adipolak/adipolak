@@ -1,4 +1,4 @@
-[Take the plunge of distributed machine learning training with Spark, Pytorch and TensorFlow]([https://github.com/adipolak/ml-with-apache-spark](https://github.com/adipolak/ml-with-apache-spark/tree/main/notebooks))
+[Take the plunge of distributed machine learning training with Spark, Pytorch and TensorFlow](https://github.com/adipolak/ml-with-apache-spark/tree/main/notebooks)
 
 ### Hi there 👋
 
