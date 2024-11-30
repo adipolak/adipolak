@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-A wee bit about me: I am an experienced Software Engineer and people manager with technical expertise in Apache Spark, HDFS, AWS, Azure, machine learning, and distributed large-scale systems.
+A wee bit about me: I am an experienced Software Engineer and people manager with technical expertise in Apache Kafka, Flink, Spark, HDFS, AWS, Azure, machine learning, and distributed large-scale systems.
 
 I'm highly motivated, and always excited about solving problems and learning. I possess a curious, positive, and can-do attitude. Drove success and improvement for both distributed machine systems and people systems, optimizing Spark cluster, driving +350%  throughout at Akamai scale [billions of events a day, processing 1.3PT], saving the company money on compute and optimizing complex ml model deployment from months to 2–3 days cycle, by aligning people-based systems, influencing strategic software integrations, and adopting software best practices.
 
