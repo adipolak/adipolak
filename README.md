@@ -8,8 +8,7 @@ I'm highly motivated, and always excited about solving problems and learning. I 
 
 I have been honored with the Beacon award in the Databricks Ambassadors Program, a testament to my commitment to contributing to data and AI technologies and sharing my expertise with others.
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-
+<a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fadipolak%2F" rel="some text"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" alt="" /></a>
 
 ## 🔭 Industry Contributions
 
